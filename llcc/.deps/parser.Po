@@ -1,0 +1,80 @@
+parser.o: parser.c /usr/include/stdlib.h /usr/include/features.h \
+  /usr/include/sys/cdefs.h /usr/include/bits/wordsize.h \
+  /usr/include/gnu/stubs.h /usr/include/gnu/stubs-64.h \
+  /usr/bin/../lib/clang/3.1/include/stddef.h /usr/include/stdio.h \
+  /usr/include/bits/types.h /usr/include/bits/typesizes.h \
+  /usr/include/libio.h /usr/include/_G_config.h /usr/include/wchar.h \
+  /usr/bin/../lib/clang/3.1/include/stdarg.h \
+  /usr/include/bits/stdio_lim.h /usr/include/bits/sys_errlist.h syntax.h \
+  /usr/include/llvm-c/Core.h /usr/include/llvm/Support/DataTypes.h \
+  /usr/include/math.h /usr/include/bits/huge_val.h \
+  /usr/include/bits/mathdef.h /usr/include/bits/mathcalls.h \
+  /usr/include/sys/types.h /usr/include/time.h /usr/include/inttypes.h \
+  /usr/bin/../lib/clang/3.1/include/stdint.h /usr/include/stdint.h \
+  /usr/include/bits/wchar.h hashmap.h list.h parser_out.h module_body.h
+
+/usr/include/stdlib.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-64.h:
+
+/usr/bin/../lib/clang/3.1/include/stddef.h:
+
+/usr/include/stdio.h:
+
+/usr/include/bits/types.h:
+
+/usr/include/bits/typesizes.h:
+
+/usr/include/libio.h:
+
+/usr/include/_G_config.h:
+
+/usr/include/wchar.h:
+
+/usr/bin/../lib/clang/3.1/include/stdarg.h:
+
+/usr/include/bits/stdio_lim.h:
+
+/usr/include/bits/sys_errlist.h:
+
+syntax.h:
+
+/usr/include/llvm-c/Core.h:
+
+/usr/include/llvm/Support/DataTypes.h:
+
+/usr/include/math.h:
+
+/usr/include/bits/huge_val.h:
+
+/usr/include/bits/mathdef.h:
+
+/usr/include/bits/mathcalls.h:
+
+/usr/include/sys/types.h:
+
+/usr/include/time.h:
+
+/usr/include/inttypes.h:
+
+/usr/bin/../lib/clang/3.1/include/stdint.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:
+
+hashmap.h:
+
+list.h:
+
+parser_out.h:
+
+module_body.h:

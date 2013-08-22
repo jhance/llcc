@@ -1,0 +1,125 @@
+cscope 15 $HOME/src/llcc               0000000679
+	@config.h
+
+5 
+	#HAVE_INTTYPES_H
+ 1
+
+	)
+
+8 
+	#HAVE_MEMORY_H
+ 1
+
+	)
+
+11 
+	#HAVE_STDINT_H
+ 1
+
+	)
+
+14 
+	#HAVE_STDLIB_H
+ 1
+
+	)
+
+17 
+	#HAVE_STRINGS_H
+ 1
+
+	)
+
+20 
+	#HAVE_STRING_H
+ 1
+
+	)
+
+23 
+	#HAVE_SYS_STAT_H
+ 1
+
+	)
+
+26 
+	#HAVE_SYS_TYPES_H
+ 1
+
+	)
+
+29 
+	#HAVE_UNISTD_H
+ 1
+
+	)
+
+32 
+	#PACKAGE
+ "Îcc"
+
+	)
+
+35 
+	#PACKAGE_BUGREPORT
+ "j¬edhªû@gmaž.com"
+
+	)
+
+38 
+	#PACKAGE_NAME
+ "Îcc"
+
+	)
+
+41 
+	#PACKAGE_STRING
+ "Îcø1.0-gamma"
+
+	)
+
+44 
+	#PACKAGE_TARNAME
+ "Îcc"
+
+	)
+
+47 
+	#PACKAGE_URL
+ ""
+
+	)
+
+50 
+	#PACKAGE_VERSION
+ "1.0-gamma"
+
+	)
+
+53 
+	#STDC_HEADERS
+ 1
+
+	)
+
+56 
+	#VERSION
+ "1.0-gamma"
+
+	)
+
+60 
+	#YYTEXT_POINTER
+ 1
+
+	)
+
+	@
+1
+.
+1
+/usr/include
+1
+9
+config.h
